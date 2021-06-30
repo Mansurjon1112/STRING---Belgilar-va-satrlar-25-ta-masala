@@ -7,5 +7,5 @@ chiqaruvchi programma tuzilsin.
 """
 
 n = int(input('n= '))
-
-print(chr(n+64))
+for i in range(1,n+1):
+  print(chr(i+64))
