@@ -1,5 +1,3 @@
-# Belgilar-va-satrlar-25-ta-masala
-
 Belgililar massivi bilan ishlash
 Belgilar va satrlar
 Kiritilgan satrni char toifasidagi massiv sifatida qaralganda 10 ta belgidan oshmaydi deb qabul qiling.
