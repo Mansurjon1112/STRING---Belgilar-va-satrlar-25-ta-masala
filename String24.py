@@ -17,3 +17,7 @@ for i in str(d):
     un = un * 2 + int(i)
     
 print(un)
+
+#3-usul
+a = input('Ikkilik sanoq sistemasidagi son kiriting: ')
+print(int(a,2))
